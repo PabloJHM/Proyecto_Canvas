@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Proyecto_Canvas</string>
+
+    <string name="tamanopin">Tamaño del pincel:</string>
+    <string name="tamanobor">Tamaño del borrador:</string>
+
+
+    <string name="titulonuevo">Nuevo dibujo</string>
+    <string name="preguntanuevo">Hacer un nuevo dibujo?(El dibujo actual será borrado)</string>
+
+
+    <string name="tituloGuardar">Guardar dibujo</string>
+    <string name="preguntaGuardar">Guardar el dibujo?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="guardado">Dibujo guardado correctamente!</string>
+    <string name="noguardado">Lo siento, no puede guardarse la imagen</string>
+</resources>
